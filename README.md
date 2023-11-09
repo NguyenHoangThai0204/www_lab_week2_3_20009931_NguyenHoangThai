@@ -23,6 +23,8 @@
  
  6. API:
 
+    ![image](https://github.com/NguyenHoangThai0204/www_lab_week2_3_20009931_NguyenHoangThai/assets/98085097/b89dd77f-4efb-4b62-9088-47c16abf1ecb)
+    
     ![image](https://github.com/NguyenHoangThai0204/www_lab_week2_3_20009931_NguyenHoangThai/assets/98085097/110a4157-62e7-4f7a-a437-dde133ecb61d)
 
     ![image](https://github.com/NguyenHoangThai0204/www_lab_week2_3_20009931_NguyenHoangThai/assets/98085097/c457cd74-8463-435e-b568-9b20263dc990)
